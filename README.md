@@ -18,3 +18,5 @@ REST reminder:
 |   | GET server.com/users/1  | Show  |
 | Update  | PUT server.com/users/1  | Update  |
 | Delete  | DELETE server.com/users/1  | Delete  |
+
+![](./images/restful_routing.jpg)
