@@ -9,7 +9,7 @@
 
 Build a RESTful API that serves the data in data.json. You can use Sinatra, Node, or something else.
 
-REST reminder:
+### RESTful schema
 
 | CRUD action  | RESTful route  | REST name  |
 |---|---|---|
@@ -18,5 +18,7 @@ REST reminder:
 |   | GET server.com/users/1  | Show  |
 | Update  | PUT server.com/users/1  | Update  |
 | Delete  | DELETE server.com/users/1  | Delete  |
+
+### RESTful flow
 
 ![](./images/restful_routing.jpg)
