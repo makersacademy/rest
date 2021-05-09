@@ -1,13 +1,22 @@
-# REST
+# Representational state transfer (REST)
+
+REST is a software architectural style that is used to build web applications. You could, and someone did, write a PhD thesis on the topic but its everday use can be covered in a single workshop or practical.
+
+## Learning outcomes
 
 - Describe REST as a convention for routing
 - Define 'Resource' in REST
 - Explain a RESTful route structure
 - Build a RESTful API
 
-## Main
+## Exercises
 
-Build a RESTful API that serves the data in data.json. You can use Sinatra, Node, or something else.
+If you're doing this as a practical, rather than a workshop, you'll need to combine the resources here with your own independent research. As always, be careful to strike the right balance between reading and experimenting or building. Your goal is not to write another PhD thesis on REST.
+
+- Observe the diagram below and explain what is going on, in your own words.
+- Look back at the learning outcomes and make sure your explanation covers each of the first three.
+- Write down your explanation and share it with a peer for feedabck.
+- Build a RESTful API that serves the data in data.json. You can use Sinatra, Node, or something else.
 
 ### RESTful schema
 
